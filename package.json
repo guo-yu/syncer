@@ -1,0 +1,25 @@
+{
+  "name": "syncer",
+  "version": "0.0.0",
+  "description": "a cli tool for syncing static files to CDNs like upyun or qiniu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/syncer.git"
+  },
+  "keywords": [
+    "sync",
+    "cdn",
+    "static",
+    "staticfile",
+    "rsync"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/syncer/issues"
+  }
+}
